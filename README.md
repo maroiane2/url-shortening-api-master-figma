@@ -27,8 +27,7 @@ This repository contains the UI/UX design for **Shortly**, a URL shortening serv
 
 ## 🔧 Tools Used
 
-- **Figma**: All designs were created using Figma.  
-- **Other Tools**: (Mention any other tools if applicable)
+- **Figma**: All designs were created using Figma.
 
 ---
 
@@ -37,7 +36,7 @@ This repository contains the UI/UX design for **Shortly**, a URL shortening serv
 You can view or edit the design through the `.fig` file:
 
 1. **Download the Figma design file**:
-   - [Shortly Design File](path-to-your-design-file.fig)
+   - [Shortly Design File](url-shortening-api-master.fig)
 
 2. **Open in Figma**:
    - Go to [Figma](https://www.figma.com/).
@@ -49,7 +48,7 @@ You can view or edit the design through the `.fig` file:
 
 Here's a quick preview of the design:
 
-![Shortly Design Preview](path-to-your-screenshot.jpg)
+![Shortly Design Preview](design/desktop-preview.jpg)
 
 ---
 
