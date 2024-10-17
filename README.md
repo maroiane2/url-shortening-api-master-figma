@@ -1,12 +1,9 @@
 # Shortly - URL Shortening Service Design
 
-![Shortly Design Preview](screenshot-for-design.png)
-
 
 > **Project Type:** UI/UX Design  
 > **Tools Used:** Figma  
 > **Status:** Complete  
-> **License:** MIT
 
 ---
 
