@@ -1,6 +1,6 @@
 # Shortly - URL Shortening Service Design
 
-![Shortly Design Preview](Screenshot.png)
+![Shortly Design Preview](screenshot-for-design.png)
 
 
 > **Project Type:** UI/UX Design  
@@ -57,8 +57,3 @@ Here's a quick preview of the design:
 - **For Designers**: Feel free to modify and adapt the design for personal or commercial use.
 - **For Developers**: This design can be used as a blueprint for building a URL shortening service frontend. The design is responsive and adheres to modern UI/UX principles.
 
----
-
-## 📜 License
-
-This design is licensed under the **MIT License**. See the `LICENSE` file for more details.
