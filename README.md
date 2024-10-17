@@ -1,6 +1,6 @@
 # Shortly - URL Shortening Service Design
 
-![Shortly Design Preview](path-to-your-screenshot.jpg)
+![Shortly Design Preview](Screenshot.png)
 
 
 > **Project Type:** UI/UX Design  
